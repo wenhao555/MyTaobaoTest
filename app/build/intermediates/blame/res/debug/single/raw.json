@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android Studio\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\Android Studio\\MyTaobaoTest\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\realaction\\Desktop\\yuandaima\\aaaaa\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "C:\\Users\\realaction\\Desktop\\yuandaima\\aaaaa\\MyTaobaoTest\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "C:\\Users\\realaction\\Desktop\\yuandaima\\aaaaa\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\realaction\\Desktop\\yuandaima\\aaaaa\\MyTaobaoTest\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Android Studio\\MyTaobaoTest\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\Android Studio\\MyTaobaoTest\\app\\src\\main\\res\\raw\\realm_properties"
+    }
+]

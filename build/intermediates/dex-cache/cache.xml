@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_070772d592943f5df37d695502dbff0ce2c1eb07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_d475bbbd410d990399c8fdce00c2b932a43318b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_da76e78d5f16686d52a1e55c8c4a0006ec99958d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\libs\cu_volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\cu_volley_6f25a5a1b0589efc6ebf70e82ce27522b759c5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\libs\aseo2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07cbe16c3e33aef277b253a8e8f452bda59c58ef">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\aseo2_c7aba5b41e290b130f75000035214a44dd995332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_65d21087d0db36cef0ed3f4ba78855f35c371556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c095c6ff34c69206c827769d0dcd6308e32a4606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6f3cdc572ddfd37a19f1c1fdb96cda324e8a12a">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\core_6c6a35b79058ef652c5ecf6fa57ca9c59e62309d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_48433e2596a6f8a03e33bdcc089c5fc59c36500b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\libs\httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\httpcore_ff93605b049631e4494acb36f0b200a4c7cf280b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_5160247fcc674ae33c0be51c1babe588e130df0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_99d852b71397d2e4e18034b33614570194ccf2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_dec480495d16b86be5845da596496f043f271fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_86ab66de4004ce1ee6ad2704297ef06eb8a0f805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_745c49cadf07fd32f4102efd9c969d34d5a0e543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\realaction\Desktop\yuandaima\aaaaa\MyTaobaoTest\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_6517dc65554c769898ed764c664eace52e09a879.jar" />
+    </item>
+
+</items>
